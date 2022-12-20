@@ -1,3 +1,2 @@
-# MachineLearningProjects
+# Machine Learning Projects
 
-Jupyter Notebooks of few Machine Learning Projects
